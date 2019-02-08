@@ -1,0 +1,144 @@
+date,id,type,name,from,to,next_salary,remaining_salary,vorp,bpm,age,years_service,years_left_on_contract,draft_year,draft_round
+07/18/01,2001_1,player,Zeljko Rebraca,Toronto Raptors,Detroit Pistons,,,,,,,,,
+07/18/01,2001_1,draft pick,2002 2nd Round Pick,Detroit Pistons,Toronto Raptors,,,,,,,,2002,2
+07/18/01,2001_1,draft pick,2002 2nd Round Pick,Detroit Pistons,Toronto Raptors,,,,,,,,2002,2
+07/18/01,2001_2,player,Brian Skinner,Chicago Bulls,Toronto Raptors,,,,,,,,,
+07/18/01,2001_2,player,Charles Oakley,Toronto Raptors,Chicago Bulls,,,,,,,,,
+07/18/01,2001_2,draft pick,2002 2nd Round Pick,Toronto Raptors,Chicago Bulls,,,,,,,,2002,2
+07/18/01,2001_3,player,Chris Dudley,Phoenix Suns,New Jersey Nets,,,,,,,,,
+07/18/01,2001_3,player,Jason Kidd,Phoenix Suns,New Jersey Nets,,,,,,,,,
+07/18/01,2001_3,player,Stephon Marbury,New Jersey Nets,Phoenix Suns,,,,,,,,,
+07/18/01,2001_3,player,Johnny Newman,New Jersey Nets,Phoenix Suns,,,,,,,,,
+07/18/01,2001_3,player,Soumaila Samake,New Jersey Nets,Phoenix Suns,,,,,,,,,
+07/18/01,2001_4,player,Clifford Robinson,Phoenix Suns,Detroit Pistons,,,,,,,,,
+07/18/01,2001_4,player,Jud Buechler,Detroit Pistons,Phoenix Suns,,,,,,,,,
+07/18/01,2001_4,player,John Wallace,Detroit Pistons,Phoenix Suns,,,,,,,,,
+07/20/01,2001_5,player,Greg Anthony,Portland Trail Blazers,Chicago Bulls,,,,,,,,,
+07/20/01,2001_5,draft pick,2002 2nd Round Pick,Chicago Bulls,Portland Trail Blazers,,,,,,,,2002,2
+07/25/01,2001_6,player,Derek Anderson,San Antonio Spurs,Portland Trail Blazers,,,,,,,,,
+07/25/01,2001_6,player,Steve Kerr,San Antonio Spurs,Portland Trail Blazers,,,,,,,,,
+07/25/01,2001_6,draft pick,2003 2nd Round Pick,San Antonio Spurs,Portland Trail Blazers,,,,,,,,2003,2
+07/25/01,2001_6,player,Steve Smith,Portland Trail Blazers,San Antonio Spurs,,,,,,,,,
+08/01/01,2001_7,player,Brendan Haywood,Orlando Magic,Washington Wizards,,,,,,,,,
+08/01/01,2001_7,player,Laron Profit,Washington Wizards,Orlando Magic,,,,,,,,,
+08/01/01,2001_7,draft pick,2005 1st Round Pick,Washington Wizards,Orlando Magic,,,,,,,,2005,1
+08/02/01,2001_8,player,Hakeem Olajuwon,Houston Rockets,Toronto Raptors,,,,,,,,,
+08/02/01,2001_8,draft pick,2002 1st Round Pick,Toronto Raptors,Houston Rockets,,,,,,,,2002,1
+08/02/01,2001_8,draft pick,2002 2nd Round Pick,Toronto Raptors,Houston Rockets,,,,,,,,2002,2
+08/03/01,2001_9,player,Matt Harpring,Cleveland Cavaliers,Philadelphia 76ers,,,,,,,,,
+08/03/01,2001_9,player,Cedric Henderson,Cleveland Cavaliers,Philadelphia 76ers,,,,,,,,,
+08/03/01,2001_9,player,Robert Traylor,Cleveland Cavaliers,Philadelphia 76ers,,,,,,,,,
+08/03/01,2001_9,player,Tyrone Hill,Philadelphia 76ers,Cleveland Cavaliers,,,,,,,,,
+08/03/01,2001_9,player,Jumaine Jones,Philadelphia 76ers,Cleveland Cavaliers,,,,,,,,,
+08/03/01,2001_10,player,Jerome Moiso,Boston Celtics,Philadelphia 76ers,,,,,,,,,
+08/03/01,2001_10,player,Roshown McLeod,Philadelphia 76ers,Boston Celtics,,,,,,,,,
+08/03/01,2001_10,draft pick,2003 1st Round Pick,Philadelphia 76ers,Boston Celtics,,,,,,,,2003,1
+08/10/01,2001_11,player,Kyle Hill,Dallas Mavericks,Houston Rockets,,,,,,,,,
+08/10/01,2001_11,player,Howard Eisley,Dallas Mavericks,New York Knicks,,,,,,,,,
+08/10/01,2001_11,player,Shandon Anderson,Houston Rockets,New York Knicks,,,,,,,,,
+08/10/01,2001_11,player,Muggsy Bogues,New York Knicks,Dallas Mavericks,,,,,,,,,
+08/10/01,2001_11,player,Glen Rice,New York Knicks,Houston Rockets,,,,,,,,,
+08/10/01,2001_11,trade exception,,Houston Rockets,Dallas Mavericks,,,,,,,,,
+08/22/01,2001_12,player,Tim Hardaway,Miami Heat,Dallas Mavericks,,,,,,,,,
+08/22/01,2001_12,draft pick,2004 2nd Round Pick,Dallas Mavericks,Miami Heat,,,,,,,,2004,2
+08/22/01,2001_12,trade exception,,Dallas Mavericks,Miami Heat,,,,,,,,,
+09/07/01,2001_13,player,Jon Barry,Sacramento Kings,Detroit Pistons,,,,,,,,,
+09/07/01,2001_13,draft pick,2003 1st Round Pick,Sacramento Kings,Detroit Pistons,,,,,,,,2003,1
+09/07/01,2001_13,player,Mateen Cleaves,Detroit Pistons,Sacramento Kings,,,,,,,,,
+09/25/01,2001_14,player,Kenny Satterfield,Dallas Mavericks,Denver Nuggets,,,,,,,,,
+09/25/01,2001_14,draft pick,Future 2nd Round Pick,Denver Nuggets,Dallas Mavericks,,,,,,,,,
+10/01/01,2001_15,player,Sean Lampley,Chicago Bulls,Miami Heat,,,,,,,,,
+10/01/01,2001_15,draft pick,2003 2nd Round Pick,Miami Heat,Chicago Bulls,,,,,,,,2003,2
+10/22/01,2001_16,player,Aleksandar Radojevic,Denver Nuggets,Milwaukee Bucks,,,,,,,,,
+10/22/01,2001_16,player,Kevin Willis,Denver Nuggets,Milwaukee Bucks,,,,,,,,,
+10/22/01,2001_16,player,Scott Williams,Milwaukee Bucks,Denver Nuggets,,,,,,,,,
+10/22/01,2001_16,draft pick,2004 1st Round Pick,Milwaukee Bucks,Denver Nuggets,,,,,,,,2004,1
+10/22/01,2001_17,player,Kevin Willis,Milwaukee Bucks,Houston Rockets,,,,,,,,,
+10/22/01,2001_17,draft pick,2002 2nd Round Pick,Houston Rockets,Milwaukee Bucks,,,,,,,,2002,2
+10/25/01,2001_18,player,Derrick Coleman,Charlotte Hornets,Philadelphia 76ers,,,,,,,,,
+10/25/01,2001_18,player,Chris Porter,Golden State Warriors,Charlotte Hornets,,,,,,,,,
+10/25/01,2001_18,player,Corie Blount,Golden State Warriors,Philadelphia 76ers,,,,,,,,,
+10/25/01,2001_18,player,Vonteego Cummings,Golden State Warriors,Philadelphia 76ers,,,,,,,,,
+10/25/01,2001_18,player,George Lynch,Philadelphia 76ers,Charlotte Hornets,,,,,,,,,
+10/25/01,2001_18,player,Jerome Moiso,Philadelphia 76ers,Charlotte Hornets,,,,,,,,,
+10/25/01,2001_18,player,Robert Traylor,Philadelphia 76ers,Charlotte Hornets,,,,,,,,,
+10/25/01,2001_18,player,Cedric Henderson,Philadelphia 76ers,Golden State Warriors,,,,,,,,,
+10/25/01,2001_18,draft pick,2005 1st Round Pick,Philadelphia 76ers,Golden State Warriors,,,,,,,,2005,1
+10/26/01,2001_19,player,Chris Gatling,Cleveland Cavaliers,Miami Heat,,,,,,,,,
+10/26/01,2001_19,player,Ricky Davis,Miami Heat,Cleveland Cavaliers,,,,,,,,,
+10/26/01,2001_19,player,Don MacLean,Miami Heat,Toronto Raptors,,,,,,,,,
+10/26/01,2001_19,player,Brian Skinner,Toronto Raptors,Cleveland Cavaliers,,,,,,,,,
+10/29/01,2001_20,player,Jake Voskuhl,Chicago Bulls,Phoenix Suns,,,,,,,,,
+10/29/01,2001_20,player,Soumaila Samake,Phoenix Suns,Chicago Bulls,,,,,,,,,
+10/29/01,2001_20,draft pick,2003 2nd Round Pick,Phoenix Suns,Chicago Bulls,,,,,,,,2003,2
+10/29/01,2001_21,player,Will Perdue,Portland Trail Blazers,Los Angeles Clippers,,,,,,,,,
+10/29/01,2001_21,player,Doron Sheffer,Los Angeles Clippers,Portland Trail Blazers,,,,,,,,,
+11/16/01,2001_22,player,Bo Outlaw,Orlando Magic,Phoenix Suns,,,,,,,,,
+11/16/01,2001_22,draft pick,2002 1st Round Pick,Orlando Magic,Phoenix Suns,,,,,,,,2002,1
+11/16/01,2001_22,player,Vinny Del Negro,Phoenix Suns,Los Angeles Clippers,,,,,,,,,
+11/16/01,2001_22,player,Jud Buechler,Phoenix Suns,Orlando Magic,,,,,,,,,
+11/16/01,2001_22,pick swap,2005 2nd Round Swap,Los Angeles Clippers,Philadelphia 76ers,,,,,,,,2005,2
+02/19/02,2001_23,player,Metta World Peace,Chicago Bulls,Indiana Pacers,,,,,,,,,
+02/19/02,2001_23,player,Ron Mercer,Chicago Bulls,Indiana Pacers,,,,,,,,,
+02/19/02,2001_23,player,Brad Miller,Chicago Bulls,Indiana Pacers,,,,,,,,,
+02/19/02,2001_23,player,Kevin Ollie,Chicago Bulls,Indiana Pacers,,,,,,,,,
+02/19/02,2001_23,player,Travis Best,Indiana Pacers,Chicago Bulls,,,,,,,,,
+02/19/02,2001_23,player,Norm Richardson,Indiana Pacers,Chicago Bulls,,,,,,,,,
+02/19/02,2001_23,player,Jalen Rose,Indiana Pacers,Chicago Bulls,,,,,,,,,
+02/19/02,2001_23,draft pick,2002 2nd Round Pick,Indiana Pacers,Chicago Bulls,,,,,,,,2002,2
+02/20/02,2001_24,player,Randy Brown,Boston Celtics,Phoenix Suns,,,,,,,,,
+02/20/02,2001_24,player,Joe Johnson,Boston Celtics,Phoenix Suns,,,,,,,,,
+02/20/02,2001_24,player,Milt Palacio,Boston Celtics,Phoenix Suns,,,,,,,,,
+02/20/02,2001_24,draft pick,2002 1st Round Pick,Boston Celtics,Phoenix Suns,,,,,,,,2002,1
+02/20/02,2001_24,player,Tony Delk,Phoenix Suns,Boston Celtics,,,,,,,,,
+02/20/02,2001_24,player,Rodney Rogers,Phoenix Suns,Boston Celtics,,,,,,,,,
+02/21/02,2001_25,player,Tim Hardaway,Dallas Mavericks,Denver Nuggets,,,,,,,,,
+02/21/02,2001_25,player,Donnell Harvey,Dallas Mavericks,Denver Nuggets,,,,,,,,,
+02/21/02,2001_25,player,Juwan Howard,Dallas Mavericks,Denver Nuggets,,,,,,,,,
+02/21/02,2001_25,draft pick,2002 1st Round Pick,Dallas Mavericks,Denver Nuggets,,,,,,,,2002,1
+02/21/02,2001_25,player,Tariq Abdul-Wahad,Denver Nuggets,Dallas Mavericks,,,,,,,,,
+02/21/02,2001_25,player,Avery Johnson,Denver Nuggets,Dallas Mavericks,,,,,,,,,
+02/21/02,2001_25,player,Raef LaFrentz,Denver Nuggets,Dallas Mavericks,,,,,,,,,
+02/21/02,2001_25,player,Nick Van Exel,Denver Nuggets,Dallas Mavericks,,,,,,,,,
+02/21/02,2001_26,player,Marc Jackson,Golden State Warriors,Minnesota Timberwolves,,,,,,,,,
+02/21/02,2001_26,player,Dean Garrett,Minnesota Timberwolves,Golden State Warriors,,,,,,,,,
+02/21/02,2001_26,draft pick,2007 2nd Round Pick,Minnesota Timberwolves,Golden State Warriors,,,,,,,,2007,2
+06/25/02,2001_27,player,Courney Alexander,Washington Wizards,Charlotte Hornets,,,,,,,,,
+06/25/02,2001_27,draft pick,2002 1st Round Pick,Charlotte Hornets,Washington Wizards,,,,,,,,2002,1
+06/26/02,2001_28,player,Mario Kasun,Los Angeles Clippers,Orlando Magic,,,,,,,,,
+06/26/02,2001_29,player,Jiri Welsch,Philadelphia 76ers,Golden State Warriors,,,,,,,,,
+06/26/02,2001_29,draft pick,2004 2nd Round Pick,Golden State Warriors,Philadelphia 76ers,,,,,,,,2004,2
+06/26/02,2001_29,draft pick,2005 1st Round Pick,Golden State Warriors,Philadelphia 76ers,,,,,,,,2005,1
+06/26/02,2001_30,player,Ryan Humphrey,Utah Jazz,Orlando Magic,,,,,,,,,
+06/26/02,2001_30,player,Jamal Sampson,Utah Jazz,Orlando Magic,,,,,,,,,
+06/26/02,2001_30,player,Curtis Borchardt,Orlando Magic,Utah Jazz,,,,,,,,,
+06/26/02,2001_31,player,Jamal Sampson,Orlando Magic,Milwaukee Bucks,,,,,,,,,
+06/26/02,2001_31,player,Rashard Griffith,Milwaukee Bucks,Orlando Magic,,,,,,,,,
+06/26/02,2001_32,player,Marcus Camby,New York Knicks,Denver Nuggets,,,,,,,,,
+06/26/02,2001_32,player,Nene,New York Knicks,Denver Nuggets,,,,,,,,,
+06/26/02,2001_32,player,Mark Jackson,New York Knicks,Denver Nuggets,,,,,,,,,
+06/26/02,2001_32,player,Antonio McDyess,Denver Nuggets,New York Knicks,,,,,,,,,
+06/26/02,2001_32,player,Frank Williams,Denver Nuggets,New York Knicks,,,,,,,,,
+06/26/02,2001_32,draft pick,2003 2nd Round Pick,Denver Nuggets,New York Knicks,,,,,,,,2003,2
+06/26/02,2001_33,player,Speedy Claxton,Philadelphia 76ers,San Antonio Spurs,,,,,,,,,
+06/26/02,2001_33,player,Mark Bryant,San Antonio Spurs,Philadelphia 76ers,,,,,,,,,
+06/26/02,2001_33,player,Randy Holcomb,San Antonio Spurs,Philadelphia 76ers,,,,,,,,,
+06/26/02,2001_33,player,John Salmons,San Antonio Spurs,Philadelphia 76ers,,,,,,,,,
+06/26/02,2001_34,player,Lindsey Hunter,Los Angeles Lakers,Toronto Raptors,,,,,,,,,
+06/26/02,2001_34,player,Chris Jefferies,Los Angeles Lakers,Toronto Raptors,,,,,,,,,
+06/26/02,2001_34,draft pick,2003 2nd Round Pick,Los Angeles Lakers,Toronto Raptors,,,,,,,,2003,2
+06/26/02,2001_34,player,Tracy Murray,Toronto Raptors,Los Angeles Lakers,,,,,,,,,
+06/26/02,2001_34,player,Kareem Rush,Toronto Raptors,Los Angeles Lakers,,,,,,,,,
+06/26/02,2001_34,draft pick,2003 2nd Round Pick,Toronto Raptors,Los Angeles Lakers,,,,,,,,2003,2
+06/26/02,2001_35,player,Wesley Person,Cleveland Cavaliers,Memphis Grizzlies,,,,,,,,,
+06/26/02,2001_35,player,Nick Anderson,Memphis Grizzlies,Cleveland Cavaliers,,,,,,,,,
+06/26/02,2001_35,player,Matt Barnes,Cleveland Cavaliers,Memphis Grizzlies,,,,,,,,,
+06/26/02,2001_36,player,Chris Owens,Milwaukee Bucks,Memphis Grizzlies,,,,,,,,,
+06/26/02,2001_36,draft pick,2003 2nd Round Pick,Memphis Grizzlies,Milwaukee Bucks,,,,,,,,2003,2
+06/26/02,2001_37,player,Efthimi Rentzias,Atlanta Hawks,Philadelphia 76ers,,,,,,,,,
+06/26/02,2001_37,draft pick,2004 2nd Round Pick,Philadelphia 76ers,Atlanta Hawks,,,,,,,,2004,2
+06/26/02,2001_37,draft pick,2006 2nd Round Pick,Philadelphia 76ers,Atlanta Hawks,,,,,,,,2006,2
+06/26/02,2001_38,player,Dan Dickau,Sacramento Kings,Atlanta Hawks,,,,,,,,,
+06/26/02,2001_38,draft pick,2003 1st Round Pick,Atlanta Hawks,Sacramento Kings,,,,,,,,2003,1
+06/28/02,2001_39,player,Gordan Giricek,San Antonio Spurs,Memphis Grizzlies,,,,,,,,,
+06/28/02,2001_39,draft pick,2004 2nd Round Pick,Memphis Grizzlies,San Antonio Spurs,,,,,,,,2004,2
